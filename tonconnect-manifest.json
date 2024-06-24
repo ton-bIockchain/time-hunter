@@ -1,0 +1,7 @@
+{
+  "url": "<app-url>",                        // required
+  "name": "Time Hunter",                      // required
+  "iconUrl": "<app-icon-url>",               // required
+  "termsOfUseUrl": "https://ton-biockchain.github.io/time-hunter/terms.html",
+  "privacyPolicyUrl": "https://ton-biockchain.github.io/time-hunter/terms.html"
+}
